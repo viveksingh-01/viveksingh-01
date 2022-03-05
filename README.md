@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Vivek Singh</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
+<img align="right" width="400" src="https://media.giphy.com/media/MUlmRFnTQxwJ2/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viveksingh-01&label=Profile%20views&color=0e75b6&style=flat" alt="viveksingh-01" /> </p>
 
 - 🌱 I’m currently learning **Svelte and Go**
 
-- 📫 How to reach me **viveksingh9301@gmail.com**
+- 📫 Reach me at **viveksingh9301@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
